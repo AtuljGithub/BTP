@@ -1,4 +1,4 @@
 applications:
 - name: anubhavgoapp
-  memory: 256M
+  memory: 1024M
   random-route: true
